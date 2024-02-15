@@ -14,6 +14,8 @@ The application is a simple Todo List built with React. It allows users to add, 
 
 The UI is straightforward, consisting of an input field to add new tasks, a list of tasks displaying added tasks with options to mark them as complete or delete them, and a filter feature to view all tasks, only completed tasks, or incomplete tasks.
 
+![Design Comp](./resources/design-comp.jpg)
+
 ### Expected Functionality
 
 1. Adding Tasks
@@ -27,13 +29,16 @@ The UI is straightforward, consisting of an input field to add new tasks, a list
 
 3. Marking Tasks as Complete
     * Clicking the checkbox next to a task marks it as complete.
-    * Completed tasks should display with a strikethrough effect on the text.
+    * Completed tasks should display with a ~~strikethrough~~ effect on the text.
 
 4. Deleting Tasks
     * Clicking the delete button next to a task removes it from the list.
 
 5. Filtering Tasks
-    * Users can filter tasks to show all tasks, only completed tasks, or incomplete tasks using the filter options.
+    * Users can filter tasks to show;
+      * all tasks,
+      * only completed tasks,
+      * or only incomplete tasks.
 
 ### Differences in Implementation
 
@@ -68,23 +73,22 @@ Minor differences have been intentionally introduced in the application's implem
 ### Prerequisites
 
 1. Install project dependencies
-    * [node & npm]()
-    * [pnpm]()
-    * [TestCafe]()
+    * [node & npm](https://nodejs.org/en)
+        * [via a package manager](https://nodejs.org/en/download/package-manager)
 
 ### Setup Instructions
 
-1. Clone the repository from [repository URL].
+1. Clone the repository from [GitHub](https://github.com/scarf-sh/qa-eng-take-home).
 2. Install dependencies
 
     ```bash
-    pnpm i
+    npm i
     ```
 
 3. Run the development server
 
     ```bash
-    pnpm dev
+    npm dev
     ```
 
 4. Open [http//localhost3000](http//localhost3000) with your browser to see the result.
