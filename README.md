@@ -91,4 +91,4 @@ Minor differences have been intentionally introduced in the application's implem
     npm dev
     ```
 
-4. Open [http//localhost3000](http//localhost3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
