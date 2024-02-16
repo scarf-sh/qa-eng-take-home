@@ -8,6 +8,8 @@ You will be provided with a simple React application along with its specificatio
 
 Additionally, you can opt to implement a couple of basic end-to-end tests for the application.
 
+**All together, please do not spend more than 1 - 1.5 hours on this project.**
+
 ## Application Overview
 
 The application is a simple Todo List built with React. It allows users to add, delete, and mark tasks as complete.
