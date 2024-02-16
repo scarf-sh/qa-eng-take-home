@@ -62,7 +62,12 @@ Minor differences have been intentionally introduced in the application's implem
 
     Writing End-to-End Tests is **optional**. However, it is _a bonus_ to your submission.
 
-    * Set up a basic end-to-end test environment in the project.
+    * Set up a basic end-to-end test environment in the project. Suggestions include but are not limited;
+        * TestCafe
+        * Playwright
+        * Cypress
+        * Codecept
+        * Any other E2E library of your choice
     * If you opt to write end-to-end tests. Here are a couple of suggested test cases to start with;
         * A test to verify that a user can add a task.
         * A test to verify that a user can delete a task.
