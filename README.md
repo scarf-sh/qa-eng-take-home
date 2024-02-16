@@ -57,6 +57,7 @@ Minor differences have been intentionally introduced in the application's implem
     * Thoroughly test the application based on the provided specifications.
     * Identify any discrepancies between the application's functionality and the specifications.
     * Document your findings in a test report, including any bugs or unexpected behavior you observe.
+        * Along with your documentation, it is recommended to also document the tooling utilized.
 
 ### Optional, bonus
 
