@@ -2,7 +2,7 @@
 
 ## Objective
 
-This assignment is designed to assess your skills in quality assurance, attention to detail, and your ability to write end-to-end tests.
+This assignment is designed to assess your skills in quality assurance, attention to detail. Optionally, you have the chance to show off your ability to write end-to-end tests.
 
 You will be provided with a simple React application along with its specifications. Your task is to test the application, identify any discrepancies between the implemented functionality and the specifications, and write a report on your findings.
 
@@ -82,13 +82,13 @@ Minor differences have been intentionally introduced in the application's implem
 2. Install dependencies
 
     ```bash
-    npm i
+    npm install
     ```
 
 3. Run the development server
 
     ```bash
-    npm dev
+    npm run dev
     ```
 
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
